@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maryna Henba
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, Angular and NodeJS
+- 👀 I’m Full-stack Developer
+- 🌱 I’m currently focusing on React Native
 - 📫 You can contact me by mail marynas67856@gmail.com 
 
 <!---
